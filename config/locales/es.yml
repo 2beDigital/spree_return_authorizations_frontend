@@ -1,0 +1,9 @@
+es:
+  spree:
+    return_authorizations_frontend:
+      create_returns: 'Devolver o cambiar productos'
+      created: 'Solicitud de devolución o cambio creada.'
+      not_eligibile: 'Esta orden no puede ser seleccionada para devolución.'
+    status: Estado
+    memo: Comentarios
+    return_request: Solicitud de devolución o cambio
