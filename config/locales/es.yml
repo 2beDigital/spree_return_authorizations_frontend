@@ -12,6 +12,8 @@ es:
     charged: Cargado
     pre_tax_refund_amount: Importe de reembolso pre impuestos
     total_pre_tax_refund: Total devolución pre impuestos
+    return_authorization_reasons: Razones de autorización de devolución
+    reimbursement_types: Tipos de reembolsos
     actions:
       authorize: Autorizar
     returns: Devoluciones
