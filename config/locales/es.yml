@@ -7,3 +7,11 @@ es:
     status: Estado
     memo: Comentarios
     return_request: Solicitud de devolución o cambio
+    reimbursement_type: Tipo de reembolso
+    exchange_for: Cambiar por
+    charged: Cargado
+    pre_tax_refund_amount: Importe de reembolso pre impuestos
+    total_pre_tax_refund: Total devolución pre impuestos
+    actions:
+      authorize: Autorizar
+    returns: Devoluciones
