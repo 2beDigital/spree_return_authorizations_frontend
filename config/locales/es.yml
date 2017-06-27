@@ -14,6 +14,7 @@ es:
     total_pre_tax_refund: Total devolución pre impuestos
     return_authorization_reasons: Razones de autorización de devolución
     reimbursement_types: Tipos de reembolsos
+    refund_reasons: Razones de reembolso
     actions:
       authorize: Autorizar
     returns: Devoluciones
