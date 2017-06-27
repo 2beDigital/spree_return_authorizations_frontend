@@ -11,10 +11,16 @@ es:
     exchange_for: Cambiar por
     charged: Cargado
     pre_tax_refund_amount: Importe de reembolso pre impuestos
+    pre_tax_amount: Importe pre impuestos
+    preferred_reimbursement_type: Tipo de reembolso
+    acceptance_errors: Errores de aceptación
+    reimbursements: Reembolsos
     total_pre_tax_refund: Total devolución pre impuestos
     return_authorization_reasons: Razones de autorización de devolución
     reimbursement_types: Tipos de reembolsos
     refund_reasons: Razones de reembolso
+    accepted: Aceptados
+    new_customer_return: Nueva devolución del cliente
     actions:
       authorize: Autorizar
     returns: Devoluciones
