@@ -21,6 +21,10 @@ es:
     refund_reasons: Razones de reembolso
     accepted: Aceptados
     new_customer_return: Nueva devolución del cliente
+    create_reimbursement: Crear reembolso
+    reimburse: Reembolso
+    calculated_reimbursements: Reembolsos calculados
+    items_to_be_reimbursed: Productos para ser reembolsados
     actions:
       authorize: Autorizar
     returns: Devoluciones
